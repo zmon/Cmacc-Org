@@ -1,5 +1,7 @@
 <?php 
 
+DEFINE('TEXTEDITWINDOWSIZE', 400); 
+
 DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
 DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Cmacc-Org');	// The repo home
