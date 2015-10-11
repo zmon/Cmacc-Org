@@ -11,5 +11,14 @@
         "twbs/bootstrap": "^3.3",
         "components/jquery": "^2.1",
         "twbs/bootstrap": "^3.3"
-    }
+    },
+
+    "scripts": {
+        "post-update-cmd": [
+            "mkdir -p public/bootstrap",
+            "mkdir -p public/jquery",
+            "cp -R vendor/twbs/bootstrap/dist/ public/bootstrap/",
+            "cp -R vendor/twbs/bootstrap/docs/assets/ public/bootstrap/",
+            "cp -R vendor/components/jquery/ public/jquery/"
+        ]}
 }
