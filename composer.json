@@ -9,7 +9,7 @@
     "require": {
         "CommonAccord/ccmac": "dev-master",
         "twbs/bootstrap": "^3.3",
-        "components/jquery": "^2.1"
+        "components/jquery": "^2.1",
         "twbs/bootstrap": "^3.3"
     }
 }
