@@ -1,0 +1,91 @@
+.page
+
+
+<h1 class="header" >Standard License Agreement</h1>
+
+<p class="header">
+Standard license agreement with variables for Grant Exclusivity of an agreement on a continuum from open to closed.
+</p>
+
+<p class="header">
+This agreement creates the rules for how the Licensee (user) can use the licensor's (author) product/creation.
+</p>
+
+
+.field MessageToUser
+.field_label MessageToUser
+.field_description Description of the field
+.field_place_holder Place holder
+
+.field P1.N,E,A
+.field_label Licensor
+.field_description The person that owns the rights to the product.  This is often the author/creator of the product.
+.field_place_holder Bob Smith
+
+.field P2.N,E,A
+.field_label Licensee
+.field_description The user of the product/creation.
+.field_place_holder John Doe
+
+.field EffectiveDate.YMD
+.field_label Effective Date
+.field_description Date this agreement will take effect.
+.field_place_holder 2015-May-1
+
+.field Term.First.Period
+.field_label First Period
+.field_description Durration of agreement, which is automatically renew for Renew Period
+.field_place_holder One Year
+
+.field Term.Renew.Period
+.field_label Renew Period
+.field_description Renewal period, automatically renewed
+.field_place_holder Five Years
+
+.field Term.CancelNotice.Period
+.field_label Cancel Notice Period
+.field_description Period of time that the written notice of non-renewal must be given before the expiration of any term.
+.field_place_holder 5 weeks
+
+.field Price
+.field_label Price
+.field_description One time amount paid by the Licensee to Licensor for use of product/creation.
+.field_place_holder $5.00
+
+.field Cure.Period
+.field_label Cure Period
+.field_description Time that Licensee has to cure failures, per Licensee notice.
+.field_place_holder Place holder
+
+.field Change.Refuse.Period
+.field_label Change Refuse Period
+.field_description Period of thime that Licensor has to approve changes made.
+.field_place_holder 1 week
+
+.field P1.Notice.Block
+.field_label P1.Notice.Block
+.field_description Description of the field
+.field_place_holder Place holder
+
+.field P2.Notice.Block
+.field_label P2.Notice.Block
+.field_description Description of the field
+.field_place_holder Place holder
+
+.field Law.State.the
+.field_label State of Jurisdiction
+.field_description State Agreement shall be governed by and construed in accordance with the laws of.
+.field_place_holder Kansas
+
+.field Arbitration.Seat
+.field_label Arbitration Seat
+
+.field Arbitration.Rules
+.field_label Arbitration Rules
+
+.field P1.Sign.Block
+.field_label Licensor Sign Block
+
+.field P2.Sign.Block
+.field_label Licensee Sign Block
+
