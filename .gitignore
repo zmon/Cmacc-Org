@@ -1,2 +1,7 @@
-
-Code/CommonAccord/cmacc/library/cmacc_helpers.php
+.idea
+.idea/
+newlogs
+/logs
+vendor
+vendor/
+/vendor/
