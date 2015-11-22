@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/UMKC-Law/cmacc-ui.git",
-                "reference": "7ffd999cbe36a411ec58a91fb4cedc3e51d8ea10"
+                "reference": "6907eccbdeff5b119a3f578910c2067d96bb4986"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/UMKC-Law/cmacc-ui/zipball/7ffd999cbe36a411ec58a91fb4cedc3e51d8ea10",
-                "reference": "7ffd999cbe36a411ec58a91fb4cedc3e51d8ea10",
+                "url": "https://api.github.com/repos/UMKC-Law/cmacc-ui/zipball/6907eccbdeff5b119a3f578910c2067d96bb4986",
+                "reference": "6907eccbdeff5b119a3f578910c2067d96bb4986",
                 "shasum": ""
             },
             "type": "library",
@@ -26,7 +26,7 @@
                 "source": "https://github.com/UMKC-Law/cmacc-ui/tree/master",
                 "issues": "https://github.com/UMKC-Law/cmacc-ui/issues"
             },
-            "time": "2015-11-22 17:50:19"
+            "time": "2015-11-22 22:47:15"
         },
         {
             "name": "components/jquery",
