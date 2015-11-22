@@ -33,11 +33,11 @@ This agreement creates the rules for how the Licensee (user) can use the licenso
 .field_description The basic degrees of exclusivity are open or non-exclusive and exclusive.  In between those two are the basic conditions for when the licensed material can be used.  Here, the parties can choose from a number of options available in the identified documents.
 .field_option {Grant_Exlusivity.Patent.Exclusive.NIH.sec}|Patent Exclusive NIH. Give Licenses exlusive rights to exploit the patent in a territory.
 .field_option {Grant_Exlusivity.Patent.NonExclusive.NIH.sec}|Patent NonExclusive NIH.
-.field_option [Grant_Exlusivity.Copyright.NonExclusive.LibLicense.Lic.Grant.Sec]|Copyright NonExclusive LibLicense.
-.field_option [Grant_Exlusivity.Copyright.NonExclusive.CDLIB.sec]|Copyright NonExclusive CDLIB.
-.field_option [Grant_Exlusivity.WorkProduct.CooleyGo.sec]|WorkProduct CooleyGo.
-.field_option [Grant_Exlusivity.Copyright.CC.sec]|Copyright CC.
-.field_option [Grant_Exlusivity.TM.PWeiss.sec]|TM PWeiss.
+.field_option {Grant_Exlusivity.Copyright.NonExclusive.LibLicense.Lic.Grant.Sec}|Copyright NonExclusive LibLicense.
+.field_option {Grant_Exlusivity.Copyright.NonExclusive.CDLIB.sec}|Copyright NonExclusive CDLIB.
+.field_option {Grant_Exlusivity.WorkProduct.CooleyGo.sec}|WorkProduct CooleyGo.
+.field_option {Grant_Exlusivity.Copyright.CC.1}|Copyright Creative Commons.
+.field_option {Grant_Exlusivity.TM.PWeiss.sec}|TM PWeiss.
 
 
 .field EffectiveDate.YMD
