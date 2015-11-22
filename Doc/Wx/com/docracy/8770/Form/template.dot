@@ -17,12 +17,12 @@ This agreement creates the rules for how the Licensee (user) can use the licenso
 .field_description Description of the field
 .field_place_holder Place holder
 
-.field P1.N,E,A
+.field P1.
 .field_label Licensor
 .field_description The person that owns the rights to the product.  This is often the author/creator of the product.
 .field_place_holder Bob Smith
 
-.field P2.N,E,A
+.field P2.
 .field_label Licensee
 .field_description The user of the product/creation.
 .field_place_holder John Doe
@@ -31,13 +31,13 @@ This agreement creates the rules for how the Licensee (user) can use the licenso
 .field_type radio
 .field_label    Degrees of Exclusivity
 .field_description The basic degrees of exclusivity are open or non-exclusive and exclusive.  In between those two are the basic conditions for when the licensed material can be used.  Here, the parties can choose from a number of options available in the identified documents.
-.field_option [Wx/gov/nih/ott/License/Patent/Sec/License_v0.md]|Patent Exclusive NIH.
-.field_option [Wx/gov/nih/ott/License/Patent/Form/Non-Exclusive_v0.md]|Patent NonExclusive NIH.
-.field_option [Wx/edu/crl/liblicense/Model/Sec/Grant_NonExclusive_v0.md]|Copyright NonExclusive LibLicense.
-.field_option [Wx/org/cdlib/vendor/License/Sec/Grant_NonExclusive.md]|Copyright NonExclusive CDLIB.
-.field_option [Wx/com/cooleygo/US/Consult/Sec/Ownership_OtherRights_v01.md]|WorkProduct CooleyGo.
-.field_option [Wx/org/creativecommons/License/4_0/Sec/Grant_v01.md]|Copyright CC.
-.field_option [Wx/com/docracy/4790/Sec/License_v0.md]|TM PWeiss.
+.field_option {Grant_Exlusivity.Patent.Exclusive.NIH.sec}|Patent Exclusive NIH. Give Licenses exlusive rights to exploit the patent in a territory.
+.field_option {Grant_Exlusivity.Patent.NonExclusive.NIH.sec}|Patent NonExclusive NIH.
+.field_option [Grant_Exlusivity.Copyright.NonExclusive.LibLicense.Lic.Grant.Sec]|Copyright NonExclusive LibLicense.
+.field_option [Grant_Exlusivity.Copyright.NonExclusive.CDLIB.sec]|Copyright NonExclusive CDLIB.
+.field_option [Grant_Exlusivity.WorkProduct.CooleyGo.sec]|WorkProduct CooleyGo.
+.field_option [Grant_Exlusivity.Copyright.CC.sec]|Copyright CC.
+.field_option [Grant_Exlusivity.TM.PWeiss.sec]|TM PWeiss.
 
 
 .field EffectiveDate.YMD
@@ -75,16 +75,6 @@ This agreement creates the rules for how the Licensee (user) can use the licenso
 .field_description Period of thime that Licensor has to approve changes made.
 .field_place_holder 1 week
 
-.field P1.Notice.Block
-.field_label P1.Notice.Block
-.field_description Description of the field
-.field_place_holder Place holder
-
-.field P2.Notice.Block
-.field_label P2.Notice.Block
-.field_description Description of the field
-.field_place_holder Place holder
-
 .field Law.State.the
 .field_label State of Jurisdiction
 .field_description State Agreement shall be governed by and construed in accordance with the laws of.
@@ -95,10 +85,3 @@ This agreement creates the rules for how the Licensee (user) can use the licenso
 
 .field Arbitration.Rules
 .field_label Arbitration Rules
-
-.field P1.Sign.Block
-.field_label Licensor Sign Block
-
-.field P2.Sign.Block
-.field_label Licensee Sign Block
-
