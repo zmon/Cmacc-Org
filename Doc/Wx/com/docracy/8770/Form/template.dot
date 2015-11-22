@@ -27,6 +27,19 @@ This agreement creates the rules for how the Licensee (user) can use the licenso
 .field_description The user of the product/creation.
 .field_place_holder John Doe
 
+.field 1.sec
+.field_type radio
+.field_label    Degrees of Exclusivity
+.field_description The basic degrees of exclusivity are open or non-exclusive and exclusive.  In between those two are the basic conditions for when the licensed material can be used.  Here, the parties can choose from a number of options available in the identified documents.
+.field_option [Wx/gov/nih/ott/License/Patent/Sec/License_v0.md]|Patent Exclusive NIH.
+.field_option [Wx/gov/nih/ott/License/Patent/Form/Non-Exclusive_v0.md]|Patent NonExclusive NIH.
+.field_option [Wx/edu/crl/liblicense/Model/Sec/Grant_NonExclusive_v0.md]|Copyright NonExclusive LibLicense.
+.field_option [Wx/org/cdlib/vendor/License/Sec/Grant_NonExclusive.md]|Copyright NonExclusive CDLIB.
+.field_option [Wx/com/cooleygo/US/Consult/Sec/Ownership_OtherRights_v01.md]|WorkProduct CooleyGo.
+.field_option [Wx/org/creativecommons/License/4_0/Sec/Grant_v01.md]|Copyright CC.
+.field_option [Wx/com/docracy/4790/Sec/License_v0.md]|TM PWeiss.
+
+
 .field EffectiveDate.YMD
 .field_label Effective Date
 .field_description Date this agreement will take effect.
