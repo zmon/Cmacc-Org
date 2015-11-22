@@ -27,13 +27,13 @@ This agreement creates the rules for how the Licensee (user) can use the licenso
 .field_description The user of the product/creation.
 .field_place_holder John Doe
 
-.field 1.sec
+.field 1.Sec
 .field_type radio
 .field_label    Degrees of Exclusivity
 .field_description The basic degrees of exclusivity are open or non-exclusive and exclusive.  In between those two are the basic conditions for when the licensed material can be used.  Here, the parties can choose from a number of options available in the identified documents.
 .field_option {Grant_Exlusivity.Patent.Exclusive.NIH.sec}|Patent Exclusive NIH. Give Licenses exlusive rights to exploit the patent in a territory.
-.field_option {Grant_Exlusivity.Patent.NonExclusive.NIH.sec}|Patent NonExclusive NIH.
-.field_option {Grant_Exlusivity.Copyright.NonExclusive.LibLicense.Lic.Grant.Sec}|Copyright NonExclusive LibLicense.
+.field_option {Grant_Exlusivity.Patent.NonExclusive.NIH.Lic.Grant.Sec}|Patent NonExclusive NIH.
+.field_option {Grant_Exlusivity.Copyright.NonExclusive.LibLicense.sec}|Copyright NonExclusive LibLicense.
 .field_option {Grant_Exlusivity.Copyright.NonExclusive.CDLIB.sec}|Copyright NonExclusive CDLIB.
 .field_option {Grant_Exlusivity.WorkProduct.CooleyGo.sec}|WorkProduct CooleyGo.
 .field_option {Grant_Exlusivity.Copyright.CC.1}|Copyright Creative Commons.
